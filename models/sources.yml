@@ -1,9 +1,0 @@
-version: 2
-
-sources:
-  - name: raw_data
-    database: MLPIPELINE
-    schema: RAW_DATA
-    tables:
-      - name: TRAINDATA
-      - name: TESTDATA

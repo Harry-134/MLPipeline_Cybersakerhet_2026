@@ -25,14 +25,12 @@ build/
 
 # Jupyter Notebooks
 .ipynb_checkpoints/
-*.ipynb
 
 # Databricks
 *.databricks
 *.db
 
 # Large files (handled by Git LFS)
-*.pkl
 *.joblib
 *.h5
 *.parquet

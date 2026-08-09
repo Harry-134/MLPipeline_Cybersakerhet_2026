@@ -50,3 +50,4 @@ desktop.ini
 *.log
 *.tmp
 *.temp
+dbt_internal_packages/
